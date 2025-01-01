@@ -1,30 +1,3 @@
----
-license: creativeml-openrail-m
-language:
-- en
-- de
-- fr
-- it
-- pt
-- hi
-- es
-- th
-pipeline_tag: text-generation
-tags:
-- triangulum_10b
-- sft
-- chain_of_thought
-- ollama
-- text-generation-inference
-- llama_for_causal_lm
-- reasoning
-library_name: transformers
-metrics:
-- code_eval
-- accuracy
-- competition_math
-- character
----
 ![Triangulum-10b.png](https://cdn-uploads.huggingface.co/production/uploads/65bb837dbfb878f46c77de4c/By0OJ1lMvP5ZvVvfEGvz5.png)
 
 <pre align="center">
